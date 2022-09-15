@@ -1,6 +1,6 @@
 ### Hi there , I am Omar Sosa 👨🏻‍💻 Fullstack Web Developer 
 
-I'm a Fullstack developer with experience building sites and web applications. I specialize in JavaScript 🤓
+With experience building sites and web applications. I specialize in JavaScript 🤓
 
 I am always looking to improve my skills to grow professionally in a continuous way to be able to constantly contribute to the work group I am with and in the future groups that I will be, always willing to teach and learn. ❤
 
