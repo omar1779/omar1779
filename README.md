@@ -7,7 +7,7 @@ I am always looking to improve my skills to grow professionally in a continuous 
 
 ```javascript
 const aboutMe = {
-   name : "Omar" && "Sosa"
+   name : "Omar" && "Sosa",
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS,],
    technologies: {
