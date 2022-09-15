@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there , I am Omar Sosa 👨🏻‍💻 Fullstack Web Developer 
 
-<!--
-**omar1779/omar1779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack developer with experience building sites and web applications. I specialize in JavaScript 🤓
 
-Here are some ideas to get you started:
+I am always looking to improve my skills to grow professionally in a continuous way to be able to constantly contribute to the work group I am with and in the future groups that I will be, always willing to teach and learn. ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const aboutMe = {
+   name : "Omar" && "Sosa"
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS,],
+   technologies: {
+      frontEnd: {
+         js: ["React", "React Native"],
+         css: ["Bootstrap5", "Material Design", "React-Boostrap" , "SASS"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         ORM : ["sequelize"],
+         firebase: ["firestore", "Authentication", "GoogleProvider"]
+      },
+      databases: ["mySQL", "PostgreSQL"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I am working on improving my soft skills and my study of English",
+};
+```
