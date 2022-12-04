@@ -11,18 +11,18 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS,],
    technologies: {
-      frontEnd: {
-         js: ["React", "React Native"],
-         css: ["Bootstrap5", "Material Design", "React-Boostrap" , "SASS"]
+      FrontEnd: {
+         Js: ["React", "React Native"],
+         Css: ["Bootstrap5", "Material Design","TailwindCSS", "React-Boostrap" , "SASS"]
       },
-      backEnd: {
-         js: ["Node", "Express"],
-         ORM : ["sequelize"],
-         firebase: ["firestore", "Authentication", "GoogleProvider"]
+      BackEnd: {
+         Js: ["Node", "Express"],
+         ORM : ["sequelize", "Mongoosse],
+         Firebase: ["Firestore", "Authentication", "GoogleProvider","Database RealTime"]
       },
-      databases: ["mySQL", "PostgreSQL"]
+      databases: ["mySQL", "PostgreSQL","MongoDb"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Freelance, open for job opportunities"],
    challenge: "I am working on improving my soft skills and my study of English",
 };
 ```
