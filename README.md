@@ -13,11 +13,11 @@ const aboutMe = {
    technologies: {
       FrontEnd: {
          Js: ["React", "React Native"],
-         Css: ["Bootstrap5", "Material Design","TailwindCSS", "React-Boostrap" , "SASS"]
+         Css: ["Bootstrap5", "Material Design","TailwindCSS", "React-Boostrap" , "SASS","SCSS"]
       },
       BackEnd: {
          Js: ["Node", "Express"],
-         ORM : ["sequelize", "Mongoosse],
+         ORM : ["sequelize", "Mongoosse"],
          Firebase: ["Firestore", "Authentication", "GoogleProvider","Database RealTime"]
       },
       databases: ["mySQL", "PostgreSQL","MongoDb"]
