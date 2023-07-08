@@ -9,8 +9,8 @@ I am always looking to improve my skills to grow professionally in a continuous 
 const aboutMe = {
    name : "Omar" && "Sosa",
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS,],
-   technologies: {
+   code: [Javascript, Typescript, Python, HTML, CSS,],
+   technologies: [
       FrontEnd: {
          Js: ["React", "React Native",Next13,Remix],
          Css: ["Bootstrap5", "Material Design","TailwindCSS", "React-Boostrap" , "SASS","SCSS"]
@@ -21,7 +21,7 @@ const aboutMe = {
          Firebase: ["Firestore", "Authentication", "GoogleProvider","Database RealTime"]
       },
       databases: ["mySQL", "PostgreSQL","MongoDb"]
-   },
+   ],
    currentOccupation: ["Freelance, open for job opportunities"],
    challenge: "I am working on improving my soft skills and my study of English",
 };
