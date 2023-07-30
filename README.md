@@ -12,7 +12,7 @@ const aboutMe = {
    code: [Javascript, Typescript, Python, HTML, CSS,],
    technologies: [
       FrontEnd: {
-         Js: ["React", "React Native",Next13,Remix],
+         Js: ["React", "React Native",Next13,Remix,JQuery],
          Css: ["Bootstrap5", "Material Design","TailwindCSS", "React-Boostrap" , "SASS","SCSS"]
       },
       BackEnd: {
