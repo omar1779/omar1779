@@ -12,17 +12,22 @@ const aboutMe = {
    code: [Javascript, Typescript, Python, HTML, CSS,],
    technologies: [
       FrontEnd: {
-         Js: ["React", "React Native",Next13,Remix,JQuery],
+         Javascript: ["React","React Native",Next13,Remix,JQuery],
+         Typescript: ["React","React Native",Next13,Remix],
          Css: ["Bootstrap5", "Material Design","TailwindCSS", "React-Boostrap" , "SASS","SCSS"]
       },
       BackEnd: {
          Js: ["Node", "Express"],
+         Ts: ["Node", "Express"],
+         Python: ["DJango","Pandas","TensorFlow","Keras"]
          ORM : ["sequelize", "Mongoosse"],
-         Firebase: ["Firestore", "Authentication", "GoogleProvider","Database RealTime"]
+         Firebase: ["Firestore", "Authentication", "GoogleProvider","Database RealTime"],
+         Google CLoud : ["Auth0", "Deployment","Function Serverless","CI-CD","Buckets"]
+         AWS S3 : ["Buckets", "Auth"]
       },
-      databases: ["mySQL", "PostgreSQL","MongoDb"]
+      databases: ["mySQL", "PostgreSQL","MongoDb","SingleStore"]
    ],
-   currentOccupation: ["Freelance, open for job opportunities"],
+   currentOccupation: ["Lead Developer Grupo ENX"],
    challenge: "I am working on improving my soft skills and my study of English",
 };
 ```
