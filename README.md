@@ -27,7 +27,8 @@ const aboutMe = {
       },
       databases: ["mySQL", "PostgreSQL","MongoDb","SingleStore"]
    ],
-   currentOccupation: ["Lead Developer Grupo ENX"],
+   currentOccupation: ["Lead Developer Datakubes"],
    challenge: "I am working on improving my soft skills and my study of English",
+   hobbies: ["read books","Gym","drink coffee... Love coffee ❤","I like to play immersive role-playing games"]
 };
 ```
